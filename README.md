@@ -89,11 +89,26 @@ Eğitim test rassal olarak %66-34 bölünen başarı değeri (5 farklı rassal a
 
 
 Eğitim test rassal olarak %66-34 kullanıldığında elde edilen konfüzyon matrisi görselleri:
+split1:
 <img width="451" height="350" alt="image" src="https://github.com/user-attachments/assets/da5570a7-eee3-47ef-bb74-4aa111a00e4e" />
+
+
+split2:
 <img width="466" height="349" alt="image" src="https://github.com/user-attachments/assets/424fbe5b-8168-4e44-a079-ae0e0d86dd12" />
+
+
+split3:
 <img width="472" height="349" alt="image" src="https://github.com/user-attachments/assets/7df0ba9d-8962-4ddf-a479-d514dbd5689e" />
+
+
+split4:
 <img width="469" height="346" alt="image" src="https://github.com/user-attachments/assets/03cb198d-3aa5-4b92-b112-bfed1b988ab4" />
+
+
+split5:
 <img width="474" height="357" alt="image" src="https://github.com/user-attachments/assets/ae226b74-d03b-49c1-a99a-38fd0c0f7590" />
+
+
 
 5 katlı çapraz doğrulama sonucu başarı değerleri:
 <img width="536" height="158" alt="image" src="https://github.com/user-attachments/assets/65cd2df4-3c53-4c4f-9f81-c5fbce71237e" />
